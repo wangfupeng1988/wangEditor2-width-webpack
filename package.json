@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "wangeditor": "^2.1.15"
+    "wangeditor": "latest"
   },
   "devDependencies": {
     "css-loader": "^0.23.1",
